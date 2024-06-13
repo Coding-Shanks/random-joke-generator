@@ -27,7 +27,7 @@ The **Random Joke Generator** is a fun and interactive web application designed 
 
 ## Demo
 
-Check out the live demo [here](https://prod.liveshare.vsengsaas.visualstudio.com/join?C7041EB1290038A6B16381315E6A3FB9306A](https://random-joke-generator-gamma.vercel.app/)
+Check out the live demo [here]([https://random-joke-generator-gamma.vercel.app/])
 
 ## Getting Started
 
