@@ -56,7 +56,7 @@ To get a local copy up and running, follow these simple steps.
 ```
 random-joke-generator/
 │
-├── back.png     # Contains the background image
+├── back.png        # Contains the background image
 ├── index.html      # Main HTML file
 ├── style.css       # Styles for the application
 └── script.js       # JavaScript code for fetching jokes
